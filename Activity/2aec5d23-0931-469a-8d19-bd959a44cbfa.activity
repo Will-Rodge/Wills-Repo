@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "2aec5d23-0931-469a-8d19-bd959a44cbfa",
+    "contentHash": "vWDPi2DFwJzn0hVcBQz/2VCmPLqdpPl//Q5OKY\u002BrIXc=",
+    "platformVersion": "10.0.0",
+    "revisionId": "305ce683-9669-4356-a504-fe5c249ccbd9",
+    "updatedAt": "0001-01-01T00:00:00Z",
+    "createdAt": "2026-04-01T16:02:45Z",
+    "createdBy": "457feac4-3576-49f0-b5b4-77d6d952b44c",
+    "branch": "main"
+  },
+  "content": {
+    "projectId": "f2844da3-ca08-4139-9594-0ba0809b9de2",
+    "description": "Test Versioning",
+    "associatedUserId": "457feac4-3576-49f0-b5b4-77d6d952b44c",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "activityServiceType": "Stateless",
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "2aec5d23-0931-469a-8d19-bd959a44cbfa",
+    "name": "Test Versioning"
+  }
+}
