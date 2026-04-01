@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "69cd4405dd423e42a863f73b",
-    "contentHash": "ZxPiKZuFCTgt8\u002BYcXXEfsoaeSEJSmJ06QjxSCTxpWs4=",
+    "contentHash": "yML0PR\u002B5SVuB/FD85dxBfIXH7uvhNVpQ0tH0URi5nmU=",
     "platformVersion": "10.0.0",
-    "revisionId": "b22038a2-f0b3-486b-b6cc-0618257c1654",
-    "updatedAt": "2026-04-01T16:12:54Z",
+    "revisionId": "e0774c74-2fe3-4116-860e-bbe29b6b67c9",
+    "updatedAt": "2026-04-01T16:18:36Z",
     "updatedBy": "457feac4-3576-49f0-b5b4-77d6d952b44c",
     "createdAt": "2026-04-01T16:12:53Z",
     "createdBy": "457feac4-3576-49f0-b5b4-77d6d952b44c",
@@ -23,6 +23,42 @@
         "slug": "",
         "name": "Home",
         "parameters": []
+      },
+      {
+        "id": "d21e67e1-b2c9-4625-8dc2-1248ba7ba580",
+        "pageId": "69cd455bdd423e42a863f749",
+        "pageEntityId": "11f68beb-c53b-4235-8b3d-142980cd4aeb",
+        "slug": "page-1",
+        "name": "Page 1",
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [],
