@@ -1,14 +1,10 @@
 {
   "metadata": {
     "id": "748cf6ad-2255-4197-bbb9-085fea1902d4",
-    "contentHash": "JonKaVqRJFqjdTR/1mRTfRITtociJ7vWrMzYY9wBtbo=",
     "platformVersion": "10.0.0",
-    "revisionId": "60aef1ea-d539-47bb-9c8d-8e4534771342",
-    "updatedAt": "2026-04-01T16:05:56Z",
-    "updatedBy": "01abfa83-275b-42c8-8941-aa708730cf83",
-    "createdAt": "2026-04-01T15:58:10Z",
-    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
-    "branch": "main"
+    "createdAt": "2026-08-18T13:34:39Z",
+    "createdBy": "c3f38733-c84b-424f-a0cd-c3ee3dfd36ea",
+    "schemaVersion": "1.0.0"
   },
   "content": {
     "id": "748cf6ad-2255-4197-bbb9-085fea1902d4",
@@ -16,6 +12,8 @@
     "accent": "#552472",
     "route": "testers-2026",
     "description": "testinggggggggg",
+    "cmsEnabled": false,
+    "versioning": true,
     "repositoryUrl": "https://github.com/Will-Rodge/Wills-Repo.git",
     "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
     "resourceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
