@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "actionDetails": [
+      {
+        "definitionId": "8166ba31-6b9c-4838-a5a9-acf679684e62",
+        "name": "Open Browser",
+        "version": "1.0.5"
+      },
+      {
+        "definitionId": "0d947388-14f6-4af5-af16-0db65d8fccac",
+        "name": "Close Browser",
+        "version": "1.0.2"
+      }
+    ],
+    "componentDetails": [],
+    "appActionsDetails": []
+  }
+}

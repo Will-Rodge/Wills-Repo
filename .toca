@@ -21,6 +21,11 @@
       "type": "GitActivityResource",
       "id": "6028414c-408d-4137-854f-710ca16ae151",
       "path": "Activity/6028414c-408d-4137-854f-710ca16ae151.activity"
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "926f53fe-ea88-45e7-b276-ed4adc8fa946",
+      "path": "Activity/926f53fe-ea88-45e7-b276-ed4adc8fa946.activity"
     }
   ],
   "environmentMappings": [
@@ -29,7 +34,8 @@
       "aliasKey": "bot-bot-1",
       "aliasValue": "alias:bot-bot-1",
       "referencedByResourceIds": [
-        "6028414c-408d-4137-854f-710ca16ae151"
+        "6028414c-408d-4137-854f-710ca16ae151",
+        "926f53fe-ea88-45e7-b276-ed4adc8fa946"
       ]
     }
   ]
