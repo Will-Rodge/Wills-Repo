@@ -11,7 +11,26 @@
       "type": "GitDatastoreResource",
       "id": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
       "path": "Datastore/fdaddf3b-08cf-4c7f-a4cb-e52a312d7995.datastore"
+    },
+    {
+      "type": "GitProjectResource",
+      "id": "f2844da3-ca08-4139-9594-0ba0809b9de2",
+      "path": "Project/f2844da3-ca08-4139-9594-0ba0809b9de2.project"
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "6028414c-408d-4137-854f-710ca16ae151",
+      "path": "Activity/6028414c-408d-4137-854f-710ca16ae151.activity"
     }
   ],
-  "environmentMappings": []
+  "environmentMappings": [
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-bot-1",
+      "aliasValue": "alias:bot-bot-1",
+      "referencedByResourceIds": [
+        "6028414c-408d-4137-854f-710ca16ae151"
+      ]
+    }
+  ]
 }

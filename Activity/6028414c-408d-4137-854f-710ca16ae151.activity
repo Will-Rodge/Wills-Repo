@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "id": "6028414c-408d-4137-854f-710ca16ae151",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-18T13:39:57Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "f2844da3-ca08-4139-9594-0ba0809b9de2",
+    "description": "GUI",
+    "botIds": [
+      "alias:bot-bot-1"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Open Browser",
+        "type": "BrowserCombo",
+        "version": "1.0.5",
+        "originId": "ab7eaad2-9fd8-274c-7787-ec160074260c",
+        "actionId": "1116c13b-7d09-47da-99ca-50346f2881af",
+        "actionDefinitionActionId": "8166ba31-6b9c-4838-a5a9-acf679684e62",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "browserType",
+            "type": "String",
+            "value": "\u0022Chrome\u0022"
+          },
+          {
+            "key": "url",
+            "type": "String",
+            "value": "\u0022https://google.com\u0022"
+          },
+          {
+            "key": "browserAlias",
+            "type": "String",
+            "value": "\u0022A\u0022"
+          },
+          {
+            "key": "maximize",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "focusBrowser",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "continueWithoutWait",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "extension",
+            "type": "String",
+            "value": "\u0022\u0022"
+          },
+          {
+            "key": "alertManagement",
+            "type": "String",
+            "value": "\u0022accept\u0022"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Close Browser",
+        "type": "BrowserClose",
+        "version": "1.0.2",
+        "originId": "f1df50d4-872e-90bf-77c6-6547fa481be4",
+        "actionId": "7e6bac5f-a428-43d0-9086-0b091145ed70",
+        "actionDefinitionActionId": "0d947388-14f6-4af5-af16-0db65d8fccac",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "browserAlias",
+            "type": "String",
+            "value": "\u0022A\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "continueWithoutWait",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "6028414c-408d-4137-854f-710ca16ae151",
+    "name": "GUI activity"
+  }
+}
