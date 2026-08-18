@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "id": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-08-18T13:35:45Z",
+    "createdBy": "c3f38733-c84b-424f-a0cd-c3ee3dfd36ea",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "uuid": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
+    "description": "new ds",
+    "datastoreType": "Internal",
+    "datastoreParameters": [
+      {
+        "datastoreId": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
+        "uuid": "01a01515-cf9e-745e-9c8c-3fca15fa362d",
+        "key": "fileDrive",
+        "type": "FilesLocator",
+        "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
+        "revision": "01a01515-cfa3-702f-9a58-6a6eb4483c9b"
+      },
+      {
+        "datastoreId": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
+        "uuid": "01a01516-140c-753f-a54d-4868b428147a",
+        "key": "Names",
+        "type": "TableV3",
+        "value": "01a01516-140c-753f-a54d-4868b428147a",
+        "revision": "01a01516-140c-7540-9795-12810d8f25e9"
+      }
+    ],
+    "tables": [
+      {
+        "id": "01a01516-140c-753f-a54d-4868b428147a",
+        "name": "Names",
+        "datastoreParameterId": "01a01516-140c-753f-a54d-4868b428147a",
+        "model": {
+          "id": {
+            "name": "id",
+            "label": "id",
+            "type": "uuid",
+            "isPrimaryKey": true,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": true
+            }
+          },
+          "created": {
+            "name": "created",
+            "label": "Created",
+            "type": "datetime",
+            "isPrimaryKey": false,
+            "metaData": {
+              "autoGenerate": true
+            },
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "updated": {
+            "name": "updated",
+            "label": "Updated",
+            "type": "datetime",
+            "isPrimaryKey": false,
+            "metaData": {
+              "autoGenerate": true,
+              "autoUpdate": true
+            },
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          },
+          "names": {
+            "name": "names",
+            "label": "Names",
+            "type": "string",
+            "isPrimaryKey": false,
+            "constraints": {
+              "isUnique": false,
+              "isNotNull": false
+            }
+          }
+        },
+        "relationships": [],
+        "selectQuery": "SELECT c.\u0060created\u0060 AS \u0027c.created\u0027,c.\u0060id\u0060 AS \u0027c.id\u0027,c.\u0060names\u0060 AS \u0027c.names\u0027,c.\u0060updated\u0060 AS \u0027c.updated\u0027 FROM \u006001a01516-140c-753f-a54d-4868b428147a\u0060 c",
+        "nonRecursiveSelectQuery": "SELECT c.* FROM \u006001a01516-140c-753f-a54d-4868b428147a\u0060 c ",
+        "indexes": [
+          {
+            "name": "PRIMARY",
+            "columns": {
+              "id": "Ascending"
+            },
+            "unique": true,
+            "type": "BTree"
+          }
+        ],
+        "position": [
+          23,
+          8
+        ],
+        "revision": "01a01516-1467-72ce-880d-8df9c2ec2b5f"
+      }
+    ],
+    "tableMigrations": [],
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
+    "name": "New datastore"
+  }
+}

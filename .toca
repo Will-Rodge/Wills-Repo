@@ -6,6 +6,11 @@
       "type": "GitWorkspaceResource",
       "id": "748cf6ad-2255-4197-bbb9-085fea1902d4",
       "path": "748cf6ad-2255-4197-bbb9-085fea1902d4.workspace"
+    },
+    {
+      "type": "GitDatastoreResource",
+      "id": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
+      "path": "Datastore/fdaddf3b-08cf-4c7f-a4cb-e52a312d7995.datastore"
     }
   ],
   "environmentMappings": []
