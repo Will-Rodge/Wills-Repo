@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "47d28a15-404b-451f-9053-09bcfbb51dd1",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-03T14:41:03Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "cc9be0e3-aed8-4162-a771-5de23b1a110f",
+    "description": "jejeje",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "47d28a15-404b-451f-9053-09bcfbb51dd1",
+    "name": "jejeje"
+  }
+}
