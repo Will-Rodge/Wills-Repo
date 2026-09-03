@@ -2,6 +2,11 @@
   "dependencies": {
     "actionDetails": [
       {
+        "definitionId": "7c8485d8-788b-4c9c-b60d-81df1715dc80",
+        "name": "Image Click",
+        "version": "1.0.10"
+      },
+      {
         "definitionId": "8166ba31-6b9c-4838-a5a9-acf679684e62",
         "name": "Open Browser",
         "version": "1.0.5"
