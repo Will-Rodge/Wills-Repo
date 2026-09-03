@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "09e81fb3-2102-4f65-94f9-b710ce98facf",
+        "name": "Flex Layout",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "b5bbb3b0-7f91-484e-b9b0-9d33213b0aef",
+        "name": "Form Layout",
+        "version": "1.0.21"
+      },
+      {
+        "definitionId": "0d94b001-1d4a-4402-b17c-30679aaea575",
+        "name": "Text Field",
+        "version": "0.0.7"
+      },
+      {
+        "definitionId": "a1b5e976-531f-446d-9914-6615d6723d2d",
+        "name": "Submit Button",
+        "version": "0.0.3"
+      },
+      {
+        "definitionId": "f216e14a-dc5a-49fd-bf7e-a8dec9b18b66",
+        "name": "Paper",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "503baa9f-7d16-4115-9265-b59576aa1d6f",
+        "name": "Text",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "ee9f72c1-92d0-47a0-8b65-8e93736e8d6d",
+        "name": "Icon",
+        "version": "0.0.3"
+      }
+    ],
+    "appActionsDetails": []
+  }
+}
