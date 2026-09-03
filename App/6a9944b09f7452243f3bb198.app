@@ -40,6 +40,44 @@
         "hidden": false,
         "restricted": false,
         "parameters": []
+      },
+      {
+        "id": "9d619bbf-a829-48f2-9170-e0ae08dcbc5b",
+        "pageId": "6a9945649f7452243f3bb19c",
+        "pageEntityId": "446bc947-2c58-4cc3-8ec2-6ff3666de55d",
+        "slug": "32504",
+        "name": "32504",
+        "hidden": false,
+        "restricted": true,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [],
