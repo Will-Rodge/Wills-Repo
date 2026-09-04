@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "id": "b0f2c21d-a2b4-4bd9-a928-50ffbf3efb1e",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-04T14:26:15Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "f2844da3-ca08-4139-9594-0ba0809b9de2",
+    "description": "Bug 32517: Versioning - Committing an activity shows a change in bot ID\u0027s",
+    "botIds": [
+      "alias:bot-Beta-Bot-0002"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "originId": "2fbd031a-07d1-53c4-f318-3e30b9716f82",
+        "actionId": "37bb6676-acea-413e-9fe1-3749bd0f8da2",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022lol\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "b0f2c21d-a2b4-4bd9-a928-50ffbf3efb1e",
+    "name": "Bug 32517: Versioning - Committing an activity shows a change in bot ID\u0027s"
+  }
+}

@@ -66,9 +66,22 @@
       "type": "GitPageResource",
       "id": "74253348-d3f7-43ee-9586-5c7da2dc6491",
       "path": "Page/74253348-d3f7-43ee-9586-5c7da2dc6491.page"
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "b0f2c21d-a2b4-4bd9-a928-50ffbf3efb1e",
+      "path": "Activity/b0f2c21d-a2b4-4bd9-a928-50ffbf3efb1e.activity"
     }
   ],
   "environmentMappings": [
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Beta-Bot-0002",
+      "aliasValue": "alias:bot-Beta-Bot-0002",
+      "referencedByResourceIds": [
+        "b0f2c21d-a2b4-4bd9-a928-50ffbf3efb1e"
+      ]
+    },
     {
       "resourceType": "Bot",
       "aliasKey": "bot-bot-1",
