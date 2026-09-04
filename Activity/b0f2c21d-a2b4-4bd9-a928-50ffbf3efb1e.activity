@@ -10,7 +10,7 @@
     "projectId": "f2844da3-ca08-4139-9594-0ba0809b9de2",
     "description": "Bug 32517: Versioning - Committing an activity shows a change in bot ID\u0027s",
     "botIds": [
-      "alias:bot-Beta-Bot-0002"
+      "alias:bot-Beta-Bot-0003"
     ],
     "version": 1,
     "actions": [
