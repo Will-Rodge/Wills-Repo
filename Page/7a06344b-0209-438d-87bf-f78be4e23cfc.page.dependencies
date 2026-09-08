@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "block/6a9ada339f7452243f3bb25a"
+      },
+      {
+        "definitionId": "block/6a9adac39f7452243f3bb25c"
+      }
+    ],
+    "appActionsDetails": []
+  }
+}

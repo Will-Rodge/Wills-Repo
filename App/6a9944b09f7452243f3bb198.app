@@ -116,6 +116,44 @@
             "type": "boolean"
           }
         ]
+      },
+      {
+        "id": "24f7c740-4944-4209-829f-e724b1de2208",
+        "pageId": "6a9ad9c69f7452243f3bb258",
+        "pageEntityId": "7a06344b-0209-438d-87bf-f78be4e23cfc",
+        "slug": "block-testing",
+        "name": "Block testing",
+        "hidden": false,
+        "restricted": true,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [],
