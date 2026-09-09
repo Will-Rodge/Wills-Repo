@@ -91,6 +91,36 @@
       "type": "GitPageResource",
       "id": "6a9adac39f7452243f3bb25c",
       "path": "Block/6a9adac39f7452243f3bb25c.block"
+    },
+    {
+      "type": "GitAppResource",
+      "id": "6aa15310f17a737587ab0e6e",
+      "path": "App/6aa15310f17a737587ab0e6e.app"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "f8eebcae-eac0-4a49-a4fb-8604e8002ec8",
+      "path": "Page/f8eebcae-eac0-4a49-a4fb-8604e8002ec8.page"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "344ad798-619e-49ef-8853-62a21b704175",
+      "path": "Page/344ad798-619e-49ef-8853-62a21b704175.page"
+    },
+    {
+      "type": "GitTranslationResource",
+      "id": "78375dbf-a86e-4a07-8be0-a67326d42dcd",
+      "path": "Translation/78375dbf-a86e-4a07-8be0-a67326d42dcd.translation"
+    },
+    {
+      "type": "GitTranslationResource",
+      "id": "9a459bcd-3977-443c-96cc-96f9df7dda3b",
+      "path": "Translation/9a459bcd-3977-443c-96cc-96f9df7dda3b.translation"
+    },
+    {
+      "type": "GitTranslationResource",
+      "id": "b55b2d1d-b071-4ce7-9244-039dd01c9d58",
+      "path": "Translation/b55b2d1d-b071-4ce7-9244-039dd01c9d58.translation"
     }
   ],
   "environmentMappings": [

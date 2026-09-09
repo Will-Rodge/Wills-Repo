@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "id": "9a459bcd-3977-443c-96cc-96f9df7dda3b",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-09T12:51:17Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "translationId": "9a459bcd-3977-443c-96cc-96f9df7dda3b",
+    "appId": "6aa15310f17a737587ab0e6e",
+    "translations": {
+      "text_jSvb_value_0": {
+        "updated": "2026-09-09T12:51:26Z",
+        "values": {
+          "en": "Wow what a nice app",
+          "af": "Wat \u0027n goeie app",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum"
+        }
+      },
+      "text_NUVb_value_0": {
+        "updated": "2026-09-09T12:51:26Z",
+        "values": {
+          "en": "She\u0027s into superstitions\nBlack cats and voodoo dolls\nI feel a premonition\nThat girl\u0027s gonna make me fall",
+          "af": "Sy is in superstitions swart katte en voodoo poppe ek voel \u0027n vooroordeling dat die meisie sal my val",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik chrum kwik chrum chrum chrum chrum chrum chrum kwik kwik chrum kwik kwik chrum chrum chrum chrum chrum kwik chrum"
+        }
+      },
+      "text_NUVb_value_1": {
+        "updated": "2026-09-09T12:51:27Z",
+        "values": {
+          "en": "She\u0027s into new sensations\nNew kicks in the candlelight\nShe\u0027s got a new addiction\nFor every day and night",
+          "af": "Sy is in nuwe sensasies Nuwe kicks in die kaarslig Sy het \u0027n nuwe verslawing vir elke dag en nag",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik chrum kwik chrum kwik chrum chrum chrum chrum chrum kwik kwik chrum kwik kwik chrum chrum chrum chrum chrum kwik kwik chrum kwik kwik chrum chrum chrum chrum chrum"
+        }
+      },
+      "text_NUVb_value_2": {
+        "updated": "2026-09-09T12:51:28Z",
+        "values": {
+          "en": "She\u0027ll make you take your clothes off and go dancing in the rain\nShe\u0027ll make you live her crazy life\nBut she\u0027ll take away your pain\nLike a bullet to your brain (come on!)",
+          "af": "Sy sal jou laat neem jou klere af en gaan dans in die re\u00EBn Sy sal jou laat leef haar gek lewe Maar sy sal jou pyn wegneem soos \u0027n kogel na jou brein (kom op!)",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik chrum kwik chrum chrum chrum chrum chrum chrum kwik kwik chrum kwik chrum chrum chrum chrum chrum chrum kwik kwik chrum kwik chrum chrum chrum chrum chrum chrum kwik chrum chrum kwik chrum chrum chrum chrum chrum chrum kwik chrum"
+        }
+      },
+      "text_NUVb_value_3": {
+        "updated": "2026-09-09T12:51:28Z",
+        "values": {
+          "en": "Upside inside out\nShe\u0027s livin\u0027 la vida loca\nShe\u0027ll push and pull you down\nLivin\u0027 la vida loca\nHer lips are devil red\nAnd her skin\u0027s the color of mocha\nShe will wear you out\nLivin\u0027 la vida loca\nShe\u0027s livin la vida loca (come on!)\nShe\u0027s livin la vida loca",
+          "af": "Sy is \u0027livin\u0027 la vida loca Sy sal druk en trek jou neer Livin\u0027 la vida loca Haar lippe is duiwel rooi En haar vel is die kleur van mocha Sy sal jou dra Livin\u0027 la vida loca Sy is livin la vida loca (kom op!) Sy is livin la vida loca",
+          "xh": "Upside inside She livin\u0027 la vida loca She will push and pull you down Livin\u0027 la vida loca Iintliziyo Yayo iintliziyo yayo iintliziyo ye-moto kunye neintliziyo yayo ye-mocha She will wear you out Livin\u0027 la vida loca She will livin la vida loca (kuya ku!) She livin la vida loca"
+        }
+      },
+      "text_LPUO_value_0": {
+        "updated": "2026-09-09T12:51:29Z",
+        "values": {
+          "en": "Glorp",
+          "af": "Glorpe",
+          "xh": "Ngena ngemvume"
+        }
+      },
+      "text_mhaQ_value_0": {
+        "updated": "2026-09-09T12:51:29Z",
+        "values": {
+          "en": "CEO of CamelCorp",
+          "af": "CEO van CamelCorp",
+          "xh": "Kwi-CamelCorp"
+        }
+      },
+      "link Button_CeDt_label_[0]": {
+        "updated": "2026-09-09T12:51:30Z",
+        "values": {
+          "en": "Read More",
+          "af": "Lees meer",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik kwik kwik kwik kwik kwik!!!"
+        }
+      }
+    },
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "9a459bcd-3977-443c-96cc-96f9df7dda3b",
+    "name": "Home"
+  }
+}

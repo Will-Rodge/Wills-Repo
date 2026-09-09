@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "id": "b55b2d1d-b071-4ce7-9244-039dd01c9d58",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-09T12:51:18Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "translationId": "b55b2d1d-b071-4ce7-9244-039dd01c9d58",
+    "appId": "6aa15310f17a737587ab0e6e",
+    "translations": {
+      "text_oMqT_value_0": {
+        "updated": "2026-09-09T12:51:30Z",
+        "values": {
+          "en": "My Account",
+          "af": "My rekening",
+          "xh": "Akhawunti"
+        }
+      },
+      "text_oTWZ_value_0_0": {
+        "updated": "2026-09-09T12:51:30Z",
+        "values": {
+          "en": "Groups: ",
+          "af": "Groepe van:",
+          "xh": "Kwik kwisetyenziselo:"
+        }
+      },
+      "show_Advanced_Button_label_[0]": {
+        "updated": "2026-09-09T12:51:31Z",
+        "values": {
+          "en": "Show Advanced",
+          "af": "Vooruitgestel",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum"
+        }
+      },
+      "text_kVFZ_value_0_0": {
+        "updated": "2026-09-09T12:51:31Z",
+        "values": {
+          "en": "User ID: ",
+          "af": "Gebruiker ID:",
+          "xh": "ID Usetyenziswa:"
+        }
+      },
+      "text_kVFZ_value_1_0": {
+        "updated": "2026-09-09T12:51:31Z",
+        "values": {
+          "en": "Name: ",
+          "af": "Naam van:",
+          "xh": "igama:"
+        }
+      },
+      "text_sPlL_value_0": {
+        "updated": "2026-09-09T12:51:32Z",
+        "values": {
+          "en": "Reset Password",
+          "af": "Herstel van die wagwoord",
+          "xh": "Ukusetyenziswa kwisetyenziswa kwisetyenziswa kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe"
+        }
+      },
+      "text Field_xbqa_label_[0]": {
+        "updated": "2026-09-09T12:51:33Z",
+        "values": {
+          "en": "Old Password",
+          "af": "Oude wagwoord",
+          "xh": "Kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum chrum kwik kwik kwik kwik kwik chrum chrum chrum chrum"
+        }
+      },
+      "text Field_pSuT_label_[0]": {
+        "updated": "2026-09-09T12:52:13Z",
+        "values": {
+          "en": "New Password",
+          "af": "Nuwe wagwoord",
+          "xh": ""
+        }
+      },
+      "text Field_gDCP_label_[0]": {
+        "updated": "2026-09-09T12:51:34Z",
+        "values": {
+          "en": "Confirm New Password",
+          "af": "Bevestig nuwe wagwoord",
+          "xh": "Kwik kwisetyenziswa kwisetyenziswa kwisetyenziswa kwisetyenziswa kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe kwisetyenziselwe."
+        }
+      },
+      "submit Button_VsSX_label_[0]": {
+        "updated": "2026-09-09T12:51:34Z",
+        "values": {
+          "en": "Change Password",
+          "af": "Verander die wagwoord",
+          "xh": "Ukutshintsha Password"
+        }
+      }
+    },
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "b55b2d1d-b071-4ce7-9244-039dd01c9d58",
+    "name": "My Account"
+  }
+}
