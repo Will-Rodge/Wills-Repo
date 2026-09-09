@@ -121,6 +121,21 @@
       "type": "GitTranslationResource",
       "id": "b55b2d1d-b071-4ce7-9244-039dd01c9d58",
       "path": "Translation/b55b2d1d-b071-4ce7-9244-039dd01c9d58.translation"
+    },
+    {
+      "type": "GitAppResource",
+      "id": "6aa174bcf17a737587ab0e79",
+      "path": "App/6aa174bcf17a737587ab0e79.app"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "715c9da4-a223-496d-bfff-19f05a316efb",
+      "path": "Page/715c9da4-a223-496d-bfff-19f05a316efb.page"
+    },
+    {
+      "type": "GitPageResource",
+      "id": "b078a7fb-33b4-4cae-b254-3914f784d2d2",
+      "path": "Page/b078a7fb-33b4-4cae-b254-3914f784d2d2.page"
     }
   ],
   "environmentMappings": [
