@@ -22,11 +22,11 @@
         "parameters": []
       },
       {
-        "id": "24f0ed37-d2c7-455f-bae7-0c356e2277a2",
-        "pageId": "6aa174e3f17a737587ab0e7b",
-        "pageEntityId": "b078a7fb-33b4-4cae-b254-3914f784d2d2",
-        "slug": "31484-page",
-        "name": "31484-page",
+        "id": "5c9406fc-019c-463c-aee0-b3d407fb831a",
+        "pageId": "6aa175cef17a737587ab0e7c",
+        "pageEntityId": "f93c1eb2-fbdf-4f87-b1be-d3d96c6ad2f2",
+        "slug": "31484-but-better",
+        "name": "31484-but-better",
         "hidden": false,
         "restricted": false,
         "parameters": [
