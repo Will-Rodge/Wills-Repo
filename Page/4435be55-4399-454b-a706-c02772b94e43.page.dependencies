@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "actionDetails": [],
+    "componentDetails": [
+      {
+        "definitionId": "09e81fb3-2102-4f65-94f9-b710ce98facf",
+        "name": "Flex Layout",
+        "version": "0.0.5"
+      },
+      {
+        "definitionId": "f216e14a-dc5a-49fd-bf7e-a8dec9b18b66",
+        "name": "Paper",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "503baa9f-7d16-4115-9265-b59576aa1d6f",
+        "name": "Text",
+        "version": "0.0.6"
+      },
+      {
+        "definitionId": "d1a05031-2152-49be-8cc3-96a4dac06299",
+        "name": "Button",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "ee9f72c1-92d0-47a0-8b65-8e93736e8d6d",
+        "name": "Icon",
+        "version": "0.0.3"
+      }
+    ],
+    "appActionsDetails": [
+      {
+        "definitionId": "dc417825-5886-4439-a9d8-0c6d173bce12",
+        "name": "Redirect",
+        "version": "0.0.2"
+      }
+    ]
+  }
+}

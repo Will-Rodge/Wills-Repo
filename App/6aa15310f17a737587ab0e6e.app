@@ -30,6 +30,26 @@
         "hidden": false,
         "restricted": false,
         "parameters": []
+      },
+      {
+        "id": "ac04ed2f-3f94-4f00-a1a0-d5ae4b72131d",
+        "pageId": "6aa3bd49fd4de1de75f87ccf",
+        "pageEntityId": "4435be55-4399-454b-a706-c02772b94e43",
+        "slug": "404",
+        "name": "404",
+        "hidden": true,
+        "restricted": false,
+        "parameters": []
+      },
+      {
+        "id": "f9f17a25-7c89-4c22-a389-5bd4c5508312",
+        "pageId": "6aa3bd49fd4de1de75f87cce",
+        "pageEntityId": "2961e064-9f61-43f3-98dd-9c18f3b60d93",
+        "slug": "500",
+        "name": "500",
+        "hidden": true,
+        "restricted": false,
+        "parameters": []
       }
     ],
     "dependencies": [
