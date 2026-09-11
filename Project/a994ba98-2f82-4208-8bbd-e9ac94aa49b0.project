@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "a994ba98-2f82-4208-8bbd-e9ac94aa49b0",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-11T09:21:38Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "a994ba98-2f82-4208-8bbd-e9ac94aa49b0",
+    "description": "commit meeee",
+    "deactivated": false,
+    "actionGroups": [],
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "a994ba98-2f82-4208-8bbd-e9ac94aa49b0",
+    "name": "commit meeee"
+  }
+}

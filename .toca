@@ -161,6 +161,11 @@
       "type": "GitPageResource",
       "id": "2961e064-9f61-43f3-98dd-9c18f3b60d93",
       "path": "Page/2961e064-9f61-43f3-98dd-9c18f3b60d93.page"
+    },
+    {
+      "type": "GitProjectResource",
+      "id": "a994ba98-2f82-4208-8bbd-e9ac94aa49b0",
+      "path": "Project/a994ba98-2f82-4208-8bbd-e9ac94aa49b0.project"
     }
   ],
   "environmentMappings": [
