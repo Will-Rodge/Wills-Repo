@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "106aa9c3-cda3-4300-9430-790483b76c6b",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-11T09:19:12Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "106aa9c3-cda3-4300-9430-790483b76c6b",
+    "description": "lol",
+    "deactivated": false,
+    "actionGroups": [],
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "106aa9c3-cda3-4300-9430-790483b76c6b",
+    "name": "lol"
+  }
+}
