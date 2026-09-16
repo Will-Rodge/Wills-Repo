@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "898596d1-d5ab-44d3-8a40-aad4da0fc0ed",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-16T13:44:27Z",
+    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "pageId": "898596d1-d5ab-44d3-8a40-aad4da0fc0ed",
+    "dashBoardId": "6aaa9d3b3611740b4e66a26a",
+    "title": "Home",
+    "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u0022ebbfb842-e928-44d5-a057-348c0c6ccdcb\u0022,\u0022components\u0022:{\u0022ebbfb842-e928-44d5-a057-348c0c6ccdcb\u0022:{\u0022id\u0022:\u0022ebbfb842-e928-44d5-a057-348c0c6ccdcb\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[]},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
+    "parameters": [],
+    "deleted": false,
+    "version": "0.0.0",
+    "workspaceId": "748cf6ad-2255-4197-bbb9-085fea1902d4",
+    "resourceId": "898596d1-d5ab-44d3-8a40-aad4da0fc0ed",
+    "name": "Home"
+  }
+}
