@@ -2,8 +2,6 @@
   "metadata": {
     "id": "fdaddf3b-08cf-4c7f-a4cb-e52a312d7995",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-09-03T09:08:51Z",
-    "createdBy": "01abfa83-275b-42c8-8941-aa708730cf83",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -41,7 +39,8 @@
             "isPrimaryKey": true,
             "constraints": {
               "isUnique": false,
-              "isNotNull": true
+              "isNotNull": true,
+              "dataType": "Uuid"
             }
           },
           "created": {
@@ -54,7 +53,8 @@
             },
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "DateTime"
             }
           },
           "updated": {
@@ -68,7 +68,8 @@
             },
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "DateTime"
             }
           },
           "names": {
@@ -78,7 +79,8 @@
             "isPrimaryKey": false,
             "constraints": {
               "isUnique": false,
-              "isNotNull": false
+              "isNotNull": false,
+              "dataType": "Text"
             }
           }
         },

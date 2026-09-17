@@ -56,6 +56,44 @@
             "type": "boolean"
           }
         ]
+      },
+      {
+        "id": "ae6e38b7-21f8-46bc-ac4b-c689047ddabb",
+        "pageId": "6aac0199300cf6dd94d557fa",
+        "pageEntityId": "86c48483-dad9-4156-a469-5e13e2ba164e",
+        "slug": "dynamic-page-1-1",
+        "name": "Dynamic Page 1:1",
+        "hidden": false,
+        "restricted": false,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [],
